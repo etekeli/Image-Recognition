@@ -1,0 +1,15 @@
+# Image-Recognition
+Projet de Machine Learning ayant pour thème la classification d'image. Réalisé en Python avec divers librairies (Keras, scikit-learn...)
+
+![](Rapport_KARABAY_TEKELI/Rapport_KARABAY_TEKELI-01.png)
+![](Rapport_KARABAY_TEKELI/Rapport_KARABAY_TEKELI-02.png)
+![](Rapport_KARABAY_TEKELI/Rapport_KARABAY_TEKELI-03.png)
+![](Rapport_KARABAY_TEKELI/Rapport_KARABAY_TEKELI-04.png)
+![](Rapport_KARABAY_TEKELI/Rapport_KARABAY_TEKELI-05.png)
+![](Rapport_KARABAY_TEKELI/Rapport_KARABAY_TEKELI-06.png)
+![](Rapport_KARABAY_TEKELI/Rapport_KARABAY_TEKELI-07.png)
+![](Rapport_KARABAY_TEKELI/Rapport_KARABAY_TEKELI-08.png)
+![](Rapport_KARABAY_TEKELI/Rapport_KARABAY_TEKELI-09.png)
+![](Rapport_KARABAY_TEKELI/Rapport_KARABAY_TEKELI-10.png)
+![](Rapport_KARABAY_TEKELI/Rapport_KARABAY_TEKELI-11.png)
+![](Rapport_KARABAY_TEKELI/Rapport_KARABAY_TEKELI-12.png)
